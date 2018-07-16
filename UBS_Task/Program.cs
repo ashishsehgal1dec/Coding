@@ -12,12 +12,7 @@ namespace UBS_Task
     {
         static void Main(string[] args)
         {
-            Person p1;
-            Person p2;
-            Person p3;
-            Person p4;
-            Person p5;
-
+           
             List<Person> lstPersons = new List<Person>();
 
             lstPersons.Add(new Person(10, "PL", "M", 2000));
